@@ -1,15 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-CopernicusTool GUI (versión multiventana)
-=====================================
-
-Aplicación de escritorio en PySide 6 para explorar, filtrar y visualizar
-archivos NetCDF de los satélites Sentinel (por ejemplo Sentinel-5P/TROPOMI).
-
-Incluye:
-- Apertura simultánea de varias visualizaciones independientes.
-"""
 
 # ----------------------------------------------------------------------
 #  Importaciones estándar

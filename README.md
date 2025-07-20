@@ -1,1 +1,1 @@
-# sentinel-tool
+Herramienta de visualización de Copernicus

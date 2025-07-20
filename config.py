@@ -111,7 +111,7 @@ SATELLITE_ALIAS = {
     "olci": "Sentinel-3 (OLCI)",
     "slstr": "Sentinel-3 (SLSTR)",
     "sral": "Sentinel-3 (SRAL)",
- # Si tienes otros satélites, añádelos aquí en minúsculas
+
 }
 
 CITY_COORDS = {
